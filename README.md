@@ -1,2 +1,1 @@
-# reverse-and-mirror
-Programming challenges with Ruby
+# REVERSE AND MIRROR
